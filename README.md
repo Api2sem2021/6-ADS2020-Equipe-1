@@ -35,7 +35,7 @@ create an platform.
 
 ## Sprint 1:
 
-(https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)
+**(https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)**
 
 
 ## Sprint 2:
