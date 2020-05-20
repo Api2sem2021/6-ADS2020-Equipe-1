@@ -33,6 +33,10 @@ of the platform.
 **[Flask](https://palletsprojects.com/p/flask/)** and
 **[GeoPandas](https://geopandas.org/)** To develop backend tools such as CRUD.
 
+## Canvas do Projeto:
+
+![Screenshot](C:\Users\Luciano\Desktop\Canvas.png)
+
 ## Sprint 1:
 
 **[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)** 
