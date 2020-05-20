@@ -35,7 +35,7 @@ of the platform.
 
 ## Canvas do Projeto:
 
-![Screenshot](Canvas.png)
+![Screenshot](Canvas.PNG)
 
 ## Sprint 1:
 
