@@ -35,15 +35,15 @@ create an platform.
 
 ## Sprint 1:
 ```
-https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1
+(https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)
 ```
 
 ## Sprint 2:
 ```
-https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_2
+(https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_2)
 ```
 
 ## Sprint 3:
 ```
-https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_3
+(https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_3)
 ```
