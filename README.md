@@ -34,16 +34,15 @@ create an platform.
 [GeoPandas](https://geopandas.org/)** To develop backend tools such as CRUD.
 
 ## Sprint 1:
-```
+
 (https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)
-```
+
 
 ## Sprint 2:
-```
+
 (https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_2)
-```
+
 
 ## Sprint 3:
-```
+
 (https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_3)
-```
