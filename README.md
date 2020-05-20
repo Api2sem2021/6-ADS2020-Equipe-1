@@ -35,7 +35,7 @@ of the platform.
 
 ## Canvas do Projeto:
 
-![Screenshot](C:\Users\Luciano\Desktop\Canvas.png)
+![Screenshot](Canvas.png)
 
 ## Sprint 1:
 
