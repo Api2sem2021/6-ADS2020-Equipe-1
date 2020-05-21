@@ -33,7 +33,7 @@ of the platform.
 **[Flask](https://palletsprojects.com/p/flask/)** and
 **[GeoPandas](https://geopandas.org/)** To develop backend tools such as CRUD.
 
-## Canvas do Projeto:
+## Canvas of Project:
 
 ![Screenshot](Canvas.PNG)
 
