@@ -18,7 +18,7 @@ his research.
 **[Imgur API](https://apidocs.imgur.com/?version=latest)** To store and provide images
 for the WebGIS plataform.
 
-**[MongoDB]https://docs.mongodb.com/manual//)** NoSQL Database to store users informations and
+**[MongoDB](https://docs.mongodb.com/manual//)** NoSQL Database to store users informations and
 allowing requests queries to be run.
 
 **[Keras](https://keras.io/) [Tensor Flow](https://www.tensorflow.org/)** Neural network
