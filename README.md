@@ -18,8 +18,8 @@ his research.
 **[Imgur API](https://apidocs.imgur.com/?version=latest)** To store and provide images
 for the WebGIS plataform.
 
-**[Postgres](https://www.postgresql.org/)** Database to store users informations and
-allowing requests queries to be run in SQL.
+**[MongoDB]https://docs.mongodb.com/manual//)** NoSQL Database to store users informations and
+allowing requests queries to be run.
 
 **[Keras](https://keras.io/) [Tensor Flow](https://www.tensorflow.org/)** Neural network
 that will be the core of the project written in Python and capable of running on top of
