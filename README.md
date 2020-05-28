@@ -7,13 +7,17 @@
 - [ ] Luis Belo - Web Developer
 - [ ] Matheus Froes - Backend Developer
 
-## What is this?
+## O que é?
+
+O projeto visa criar uma plataforma de análise de imagens de satélite através de
+um serviço de Inteligencia Artificial (IA) capaz de identificar talhões e disponibilizar
+um catálogo de imagens para o usuário realizar download de sua busca.
 
 This project aims to create a plataform for analysis of satellite image by means of AI to
 making it able to identify plots of land and provide a image catalog where the user can download
 his research.
 
-## Currently defined tools:
+## Tecnologias utilizadas:
 
 **[Imgur API](https://apidocs.imgur.com/?version=latest)** To store and provide images
 for the WebGIS plataform.
@@ -39,33 +43,34 @@ of the platform.
 
 ## Sprint 1:
 
+Objetivo: Pesquisar sobre o tema proposto, sobre as ferramentas que serão utilizadas na resolução do problema e 
+desenvolver a primeira página da plataforma com a visualização do mapa e uma ferramenta básica de seleção
+
 **[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)** 
-Link for the repository with the documents of this Sprint
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%201)** 
-Link for the Azure DevOps Backlog of this Sprint
 
 **[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%201)** 
-Link for the Azure DevOps Burndown Tred of this Sprint
+
 
 ## Sprint 2:
 
+Objetivo: Criar um modelo simples de IA de classificação de imagens, desenvolver uma API de inferface para o 
+WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo serviço de IA.
+
 **[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_2)** 
-Link for the repository with the documents of this Sprint
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%202)** 
-Link for the Azure DevOps Backlog of this Sprint
 
 **[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%202)** 
-Link for the Azure DevOps Burndown Tred of this Sprint
 
 ## Sprint 3:
 
+Objetivo: Atualizar o modelo de IA para imagens de satélite, contrução do Catálogo de Imagens no WebGIS, simplificação da API e do banco de dados
+e incorporação da API do Imgur como forma de armazenamento e acesso as imagens geradas pelo serviço de IA.
+
 **[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_3)** 
-Link for the repository with the documents of this Sprint
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%203)** 
-Link for the Azure DevOps Backlog of this Sprint
 
 **[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%203)** 
-Link for the Azure DevOps Burndown Tred of this Sprint
