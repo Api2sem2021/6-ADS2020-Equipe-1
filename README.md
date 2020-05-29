@@ -80,3 +80,5 @@ e incorporação da API do Imgur como forma de armazenamento e acesso as imagens
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%203)** 
 
 **[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%203)** 
+
+**[Vídeo Explicativo](https://drive.google.com/file/d/13XdghdyzcxnF0Pk03Qyz9ir4PzfKkvkz/view)**
