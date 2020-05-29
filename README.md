@@ -67,6 +67,7 @@ WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo servi
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%202)** 
 
 **[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%202)** 
+
 **[Vídeo Explicativo](https://drive.google.com/file/d/1PdccgYjTxWIP8tYIAMJokku05IiwubY8/view)**
 
 ## Sprint 3:
