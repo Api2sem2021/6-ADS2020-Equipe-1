@@ -41,6 +41,10 @@ of the platform.
 
 ![Screenshot](Canvas.PNG)
 
+## Planejamento de Custos e Horas:
+
+https://drive.google.com/open?id=1b351IJFYBzuri6sx5ZlnqnobeXm4cSlS
+
 ## Sprint 1:
 
 Objetivo: Pesquisar sobre o tema proposto, sobre as ferramentas que serão utilizadas na resolução do problema e 
