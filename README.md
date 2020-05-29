@@ -41,7 +41,7 @@ of the platform.
 
 ![Screenshot](Canvas.PNG)
 
-**[Planejamento de Custos e Horas]https://drive.google.com/open?id=1b351IJFYBzuri6sx5ZlnqnobeXm4cSlS**
+**[Planejamento de Custos e Horas](https://drive.google.com/open?id=1b351IJFYBzuri6sx5ZlnqnobeXm4cSlS)**
 
 ## Sprint 1:
 
