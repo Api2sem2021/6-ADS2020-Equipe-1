@@ -39,7 +39,7 @@ um catálogo de imagens para o usuário realizar download de sua busca.
 Objetivo: Pesquisar sobre o tema proposto, sobre as ferramentas que serão utilizadas na resolução do problema e 
 desenvolver a primeira página da plataforma com a visualização do mapa e uma ferramenta básica de seleção
 
-**[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_1)** 
+**[Documentation](https://drive.google.com/drive/u/3/folders/1qhnUQBDBVUIaxGOdL0TgIpf6z5JP8yfo)** 
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%201)** 
 
@@ -50,7 +50,7 @@ desenvolver a primeira página da plataforma com a visualização do mapa e uma 
 Objetivo: Criar um modelo simples de IA de classificação de imagens, desenvolver uma API de inferface para o 
 WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo serviço de IA.
 
-**[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_2)** 
+**[Documentation](https://drive.google.com/drive/u/3/folders/1XwToOaDLgdvcC0wSQAwXWRerNUuRDqb4)** 
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%202)** 
 
@@ -63,7 +63,7 @@ WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo servi
 Objetivo: Atualizar o modelo de IA para imagens de satélite, contrução do Catálogo de Imagens no WebGIS, simplificação da API e do banco de dados
 e incorporação da API do Imgur como forma de armazenamento e acesso as imagens geradas pelo serviço de IA.
 
-**[Documentation](https://gitlab.com/projeto-integrador-fatec/documentation/-/tree/Sprint_3)** 
+**[Documentation](https://drive.google.com/drive/u/3/folders/1klPyxhUSB8RrO4Xbtqx4uCAeug1uDU-b)** 
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%203)** 
 
