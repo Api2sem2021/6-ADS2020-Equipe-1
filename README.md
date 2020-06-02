@@ -11,12 +11,12 @@ um catálogo de imagens para o usuário realizar download de sua busca.
 
 ### Team Members
 
-+ Bruno Ferro -- Product Owner
-+ Fabio Rodrigues -- FullStack Developer
-+ Leonardo Tamanhão -- IA Developer
-+ Luciano Cabral -- Scrum Master
-+ Luis Belo -- Web Developer
-+ Matheus Froes -- Backend Developer
++ [Bruno Ferro](https://github.com/BuiuFerro) -- Product Owner
++ [Fabio Rodrigues](https://github.com/fabiordrig) -- FullStack Developer
++ [Leonardo Tamanhão](https://github.com/Dhonrian) -- IA Developer
++ [Luciano Cabral](https://github.com/lucianosjc) -- Scrum Master
++ [Luis Belo](https://github.com/Luzaidin) -- Web Developer
++ [Matheus Froes](https://github.com/Matheus-FC) -- Backend Developer
 
 ## Artefatos e Repositórios
 
