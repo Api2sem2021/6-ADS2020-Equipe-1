@@ -90,4 +90,4 @@ of the platform.
 
 **[Flask](https://palletsprojects.com/p/flask/)** and
 
-**[GeoPandas](https://geopandas.org/)** To develop backend tools such as CRUD.
+**[GeoPandas](https://geopandas.org/)** To manipulate the data in the IA service
