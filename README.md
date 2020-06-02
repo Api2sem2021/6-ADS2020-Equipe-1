@@ -88,6 +88,6 @@ of the platform.
 
 **[Mapbox](https://www.mapbox.com/)** For the Map Tile Engine os the plataform.
 
-**[Flask](https://palletsprojects.com/p/flask/)** and
+**[Flask](https://palletsprojects.com/p/flask/)** To create the RESTFull-API
 
 **[GeoPandas](https://geopandas.org/)** To manipulate the data in the IA service
