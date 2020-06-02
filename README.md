@@ -43,7 +43,7 @@ desenvolver a primeira página da plataforma com a visualização do mapa e uma 
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%201)** 
 
-**[Burndown Trend](https://drive.google.com/drive/u/3/folders/1qhnUQBDBVUIaxGOdL0TgIpf6z5JP8yfo)** 
+**[Burndown Trend](https://drive.google.com/file/d/17-GJRLwojfrG0i1MGky5YRGeooD243Mi/view?usp=sharing)** 
 
 ## Sprint 2:
 
@@ -54,7 +54,7 @@ WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo servi
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%202)** 
 
-**[Burndown Trend](https://drive.google.com/drive/u/3/folders/1XwToOaDLgdvcC0wSQAwXWRerNUuRDqb4)** 
+**[Burndown Trend](https://drive.google.com/file/d/1kFeO5KuLCDPC3ru2azyv0U8Ce5XZlj8K/view?usp=sharing)** 
 
 **[Vídeo Explicativo](https://drive.google.com/file/d/1PdccgYjTxWIP8tYIAMJokku05IiwubY8/view)**
 
@@ -67,7 +67,7 @@ e incorporação da API do Imgur como forma de armazenamento e acesso as imagens
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%203)** 
 
-**[Burndown Trend](https://drive.google.com/drive/u/3/folders/1klPyxhUSB8RrO4Xbtqx4uCAeug1uDU-b)** 
+**[Burndown Trend](https://drive.google.com/file/d/1VSnrsmPxhER5Sl1u5kdtaMa0jR_KfjMn/view?usp=sharing)** 
 
 **[Vídeo Explicativo](https://drive.google.com/file/d/13XdghdyzcxnF0Pk03Qyz9ir4PzfKkvkz/view)**
 
