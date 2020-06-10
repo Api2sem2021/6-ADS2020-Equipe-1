@@ -1,7 +1,7 @@
 # Projeto Integrador
 Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
 
-[Sprint 1](#sprint-1) | [Sprint 2](#sprint-2) | [Sprint 3](#sprint-3)
+[Sprint 1](#sprint-1) | [Sprint 2](#sprint-2) | [Sprint 3](#sprint-3) | [Sprint 4](#sprint-4)
 
 
 ### O que é? 
@@ -70,6 +70,16 @@ e incorporação da API do Imgur como forma de armazenamento e acesso as imagens
 **[Burndown Trend](https://drive.google.com/file/d/1VSnrsmPxhER5Sl1u5kdtaMa0jR_KfjMn/view?usp=sharing)** 
 
 **[Vídeo Explicativo](https://drive.google.com/file/d/13XdghdyzcxnF0Pk03Qyz9ir4PzfKkvkz/view)**
+
+## Sprint 4: 
+
+Objetivo: Melhoramento do serviço de IA, com o aperfeiçoamento das redes neuraris e estabelecer conexão com o backend, Reestruturação do catalogo de imagem. 
+
+**[Documentation](https://drive.google.com/drive/u/0/folders/1VpkVN4276THr7eb0rPHeyLFzL3sJBeQ3)** 
+
+**[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%204)** 
+
+**[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%204)** 
 
 ## Tecnologias utilizadas:
 
