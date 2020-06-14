@@ -81,6 +81,8 @@ Objetivo: Melhoramento do serviço de IA, com o aperfeiçoamento das redes neura
 
 **[Burndown Trend](https://drive.google.com/file/d/1sSJHLp_0vvSR8XjofKm9asFOWwJkI4l7/view?usp=sharing)** 
 
+**[Vídeo Explicativo](https://drive.google.com/file/d/1ZyNY52JViERv98eBvrI3phkmYJuKsHM2/view?usp=drivesdk)**
+
 ## Tecnologias utilizadas:
 
 **[Imgur API](https://apidocs.imgur.com/?version=latest)** To store and provide images
