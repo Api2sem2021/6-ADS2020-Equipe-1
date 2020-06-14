@@ -79,7 +79,7 @@ Objetivo: Melhoramento do serviço de IA, com o aperfeiçoamento das redes neura
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%204)** 
 
-**[Burndown Trend](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/analytics/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%204)** 
+**[Burndown Trend](https://drive.google.com/file/d/1sSJHLp_0vvSR8XjofKm9asFOWwJkI4l7/view?usp=sharing)** 
 
 ## Tecnologias utilizadas:
 
