@@ -83,6 +83,20 @@ Objetivo: Melhoramento do serviço de IA, com o aperfeiçoamento das redes neura
 
 **[Vídeo Explicativo](https://drive.google.com/file/d/1ZyNY52JViERv98eBvrI3phkmYJuKsHM2/view?usp=drivesdk)**
 
+## Sprint 5: 
+
+Objetivo: Funcionalidade do Map Tile, integração do serviço de IA a API, implemetação do serviço de suporte ao cliente e estruturação do teste de deploy da aplicação no heroku. 
+
+**[Documentation](https://drive.google.com/drive/u/2/folders/1VxADSXVNKfkDiwUKQk8ZTlyMY5ZGpfTp)** 
+
+**[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/taskboard/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%205)** 
+
+**[Burndown Trend](https://drive.google.com/file/d/1sSJHLp_0vvSR8XjofKm9asFOWwJkI4l7/view?usp=sharing)** 
+
+**[Vídeo Explicativo](https://drive.google.com/file/d/1ZyNY52JViERv98eBvrI3phkmYJuKsHM2/view?usp=drivesdk)**
+
+**[Portal de Suporte](https://fatecsjcpi.freshdesk.com/support/home)**
+
 ## Tecnologias utilizadas:
 
 **[Imgur API](https://apidocs.imgur.com/?version=latest)** To store and provide images
