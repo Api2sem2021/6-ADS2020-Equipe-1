@@ -91,9 +91,9 @@ Objetivo: Funcionalidade do Map Tile, integração do serviço de IA a API, impl
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/taskboard/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%205)** 
 
-**[Burndown Trend](https://drive.google.com/file/d/1sSJHLp_0vvSR8XjofKm9asFOWwJkI4l7/view?usp=sharing)** 
+**[Burndown Trend]()** 
 
-**[Vídeo Explicativo](https://drive.google.com/file/d/1ZyNY52JViERv98eBvrI3phkmYJuKsHM2/view?usp=drivesdk)**
+**[Vídeo Explicativo]()**
 
 **[Portal de Suporte](https://fatecsjcpi.freshdesk.com/support/home)**
 
