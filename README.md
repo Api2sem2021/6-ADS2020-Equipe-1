@@ -93,7 +93,7 @@ Objetivo: Funcionalidade do Map Tile, integração do serviço de IA a API, impl
 
 **[Burndown Trend](https://drive.google.com/file/d/1Dtzu1jyNrRLdSZUY7XHcyIj75RFDhsGL/view?usp=sharing)** 
 
-**[Vídeo Explicativo](https://drive.google.com/file/d/1iA9NODu5mF4B8Lwxq4mjtynXwH6Alry5/view)**
+**[Vídeo Explicativo](https://drive.google.com/file/d/1V__uuJ0I-EajopIIE9lsTruQqCfxqYgB/view?usp=sharing)**
 
 **[Portal de Suporte](https://fatecsjcpi.freshdesk.com/support/home)**
 
