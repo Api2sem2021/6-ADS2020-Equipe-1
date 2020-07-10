@@ -18,6 +18,15 @@ um catálogo de imagens para o usuário realizar download de sua busca.
 + [Luis Belo](https://github.com/Luzaidin) -- Web Developer
 + [Matheus Froes](https://github.com/Matheus-FC) -- Backend Developer
 
+### Team Members Linkedin
+
++ [Bruno Ferro](https://www.linkedin.com/in/bcferro/) 
++ [Fabio Rodrigues](https://www.linkedin.com/in/fabiordrig/) 
++ [Leonardo Tamanhão](https://www.linkedin.com/in/leonardo-tamanhao/) 
++ [Luciano Cabral](https://www.linkedin.com/in/lucianoccruz/) 
++ [Luis Belo]() 
++ [Matheus Froes](https://www.linkedin.com/in/matheus-froes-cinachi-377004112/) 
+
 ## Artefatos e Repositórios
 
 [Documentação separada por Sprint](https://drive.google.com/drive/u/3/folders/1AS1eB-qsdInLgi0UW6xuLSZGDQpPwmha)
