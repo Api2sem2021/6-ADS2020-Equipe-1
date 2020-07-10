@@ -1,7 +1,7 @@
 # Projeto Integrador
 Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
 
-[Sprint 1](#sprint-1) | [Sprint 2](#sprint-2) | [Sprint 3](#sprint-3) | [Sprint 4](#sprint-4) | [Sprint 5](#sprint-5)
+[Sprint 1](#sprint-1) | [Sprint 2](#sprint-2) | [Sprint 3](#sprint-3) | [Sprint 4](#sprint-4) | [Sprint 5](#sprint-5) | [Sprint 6](#sprint-6)
 
 
 ### O que é? 
@@ -73,7 +73,7 @@ e incorporação da API do Imgur como forma de armazenamento e acesso as imagens
 
 ## Sprint 4: 
 
-Objetivo: Melhoramento do serviço de IA, com o aperfeiçoamento das redes neuraris e estabelecer conexão com o backend, Reestruturação do catalogo de imagem. 
+Objetivo: Melhoramento do serviço de IA com o aperfeiçoamento das redes neuraris e estabelecer conexão com o backend, Reestruturação do catalogo de imagem. 
 
 **[Documentation](https://drive.google.com/drive/u/0/folders/1VpkVN4276THr7eb0rPHeyLFzL3sJBeQ3)** 
 
@@ -94,6 +94,20 @@ Objetivo: Funcionalidade do Map Tile, integração do serviço de IA a API, impl
 **[Burndown Trend](https://drive.google.com/file/d/1Dtzu1jyNrRLdSZUY7XHcyIj75RFDhsGL/view?usp=sharing)** 
 
 **[Vídeo Explicativo](https://drive.google.com/file/d/1V__uuJ0I-EajopIIE9lsTruQqCfxqYgB/view?usp=sharing)**
+
+**[Portal de Suporte](https://fatecsjcpi.freshdesk.com/support/home)**
+
+## Sprint 6:
+
+Objetivo: Delimitação das areas buscadas, conexão do front com back, reintegração da IA, planejamento da segurança da api adicionando método de criptografia e melhorias gerais no WebGis.
+
+**[Documentation](https://drive.google.com/drive/u/1/folders/1VzvWbujAhKSeYaB_3xofPJeHtInpiuW1)** 
+
+**[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%206)** 
+
+**[Burndown Trend]()** 
+
+**[Vídeo Explicativo]()**
 
 **[Portal de Suporte](https://fatecsjcpi.freshdesk.com/support/home)**
 
