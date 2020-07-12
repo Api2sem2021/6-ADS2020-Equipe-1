@@ -24,7 +24,7 @@ um catálogo de imagens para o usuário realizar download de sua busca.
 + [Fabio Rodrigues](https://www.linkedin.com/in/fabiordrig/) 
 + [Leonardo Tamanhão](https://www.linkedin.com/in/leonardo-tamanhao/) 
 + [Luciano Cabral](https://www.linkedin.com/in/lucianoccruz/) 
-+ [Luis Belo]() 
++ [Luis Belo](https://www.linkedin.com/in/lu%C3%ADs-belo-2b97a71b2/)
 + [Matheus Froes](https://www.linkedin.com/in/matheus-froes-cinachi-377004112/) 
 
 ## Artefatos e Repositórios
