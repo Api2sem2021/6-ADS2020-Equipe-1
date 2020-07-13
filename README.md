@@ -116,7 +116,7 @@ Objetivo: Delimitação das areas buscadas, conexão do front com back, reintegr
 
 **[Burndown Trend](https://drive.google.com/file/d/1w9IeVioaNDcNRZfd9I7IzEDk43Srl0fw/view?usp=sharing)** 
 
-**[Vídeo Explicativo]()**
+**[Vídeo Explicativo](https://drive.google.com/file/d/14bAByAtfL4GyuJfi2jN_KEikvrSlW11N/view?usp=drivesdk)**
 
 **[Portal de Suporte](https://fatecsjcpi.freshdesk.com/support/home)**
 
