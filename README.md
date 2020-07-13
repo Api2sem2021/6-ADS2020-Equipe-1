@@ -114,7 +114,7 @@ Objetivo: Delimitação das areas buscadas, conexão do front com back, reintegr
 
 **[Backlog](https://dev.azure.com/lucianocruz01/Projeto%20Integrador/_sprints/backlog/Projeto%20Integrador%20Team/Projeto%20Integrador/Sprint%206)** 
 
-**[Burndown Trend]()** 
+**[Burndown Trend](https://drive.google.com/file/d/1w9IeVioaNDcNRZfd9I7IzEDk43Srl0fw/view?usp=sharing)** 
 
 **[Vídeo Explicativo]()**
 
